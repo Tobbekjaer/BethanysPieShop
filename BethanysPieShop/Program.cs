@@ -1,6 +1,18 @@
 var builder = WebApplication.CreateBuilder(args);
+
+// Adding services 
+builder.Services.AddControllersWithViews();
+
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
+// Adding middleware
+app.UseStaticFiles();
+
+if(app.Environment.IsDevelopment())
+{
+    app.UseDeveloperExceptionPage();
+}
+
+app.MapDefaultControllerRoute();
 
 app.Run();
