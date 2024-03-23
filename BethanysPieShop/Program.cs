@@ -24,6 +24,13 @@ if(app.Environment.IsDevelopment())
 // Adding middleware
 app.UseStaticFiles();
 
-app.MapDefaultControllerRoute();
+// Adding routing
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
+// Seed the database  
+DbInitializer.Seed(app);
 
 app.Run();
