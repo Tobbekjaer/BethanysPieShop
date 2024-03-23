@@ -6,12 +6,11 @@ var builder = WebApplication.CreateBuilder(args);
 // Adding services
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddScoped<ICategoryRepository, MockCategoryRepository>();
-builder.Services.AddScoped<IPieRepository, MockPieRepository>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IPieRepository, PieRepository>();
 
 builder.Services.AddDbContext<BethanysPieShopDbContext>(options => {
-    options.UseSqlServer(
-        builder.Configuration["ConnectionStrings:BethanysPieShopDbContextConnection"]);
+    options.UseSqlServer(builder.Configuration.GetConnectionString("BethanysPieShopDbContextConnection"));
 });
 
 var app = builder.Build();
