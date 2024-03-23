@@ -9,6 +9,6 @@ namespace BethanysPieShop.Models
     {
         IEnumerable<Pie> AllPies { get; }
         IEnumerable<Pie> PiesOfTheWeek { get; }
-        Pie? GetById(int pieId);
+        Pie? GetPieById(int pieId);
     }
 }
