@@ -133,3 +133,4 @@
 /Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/BethanysPieShop.csproj.AssemblyReference.cache
 /Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/Bethanys.B33CEB33.Up2Date
+/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/bin/Debug/net8.0/libman.json
