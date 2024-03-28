@@ -18,6 +18,38 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/App/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwL0FwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/App/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwL1BhZ2VzL0Vycm9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/App/Pages/PieCard.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwL1BhZ2VzL1BpZUNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/App/Pages/SearchBlazor.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwL1BhZ2VzL1NlYXJjaEJsYXpvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/App/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwL1JvdXRlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/App/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwL19JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/App/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwL0xheW91dC9NYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-3p5zce7j7a
+
+[/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/App/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwL0xheW91dC9OYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-3hpqzgp1ow
+
 [/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/Pages/CheckoutCompletePage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hlY2tvdXRDb21wbGV0ZVBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

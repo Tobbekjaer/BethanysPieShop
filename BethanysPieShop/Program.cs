@@ -1,5 +1,6 @@
 using System.Security.Cryptography.Xml;
 using System.Text.Json.Serialization;
+using BethanysPieShop.App;
 using BethanysPieShop.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -21,6 +22,8 @@ builder.Services.AddSession();
 builder.Services.AddHttpContextAccessor();
 
 builder.Services.AddRazorPages();
+builder.Services.AddRazorComponents()
+    .AddInteractiveServerComponents();
 
 builder.Services.AddDbContext<BethanysPieShopDbContext>(options => {
     options.UseSqlServer(
@@ -45,7 +48,11 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
+app.UseAntiforgery();
+
 app.MapRazorPages();
+app.MapRazorComponents<App>()
+    .AddInteractiveServerRenderMode();
 
 // Seed the database  
 DbInitializer.Seed(app);
