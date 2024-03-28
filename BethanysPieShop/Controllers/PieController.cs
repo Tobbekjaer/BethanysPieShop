@@ -21,6 +21,7 @@ namespace BethanysPieShop.Controllers
             _categoryRepository = categoryRepository;
         }
 
+        // Action to show list of all pies
         public ViewResult List(string category)
         {
             IEnumerable<Pie> pies;
@@ -52,6 +53,12 @@ namespace BethanysPieShop.Controllers
             } 
             
             return View(pie);
+        }
+
+        // Action to show list of searched pies using API
+        public IActionResult Search()
+        {
+            return View();
         }
 
     }
