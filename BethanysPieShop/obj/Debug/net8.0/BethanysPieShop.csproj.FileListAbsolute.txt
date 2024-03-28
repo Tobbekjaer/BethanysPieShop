@@ -134,3 +134,6 @@
 /Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/BethanysPieShop.csproj.AssemblyReference.cache
 /Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/Bethanys.B33CEB33.Up2Date
 /Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/bin/Debug/net8.0/libman.json
+/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/scopedcss/App/Layout/MainLayout.razor.rz.scp.css
+/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/scopedcss/App/Layout/NavMenu.razor.rz.scp.css
+/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/scopedcss/projectbundle/BethanysPieShop.bundle.scp.css

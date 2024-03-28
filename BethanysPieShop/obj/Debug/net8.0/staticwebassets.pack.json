@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/scopedcss/projectbundle/BethanysPieShop.bundle.scp.css",
+      "PackagePath": "staticwebassets/BethanysPieShop.bundle.scp.css"
+    },
+    {
       "Id": "/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/wwwroot/Images/bethanys-pie-shop-logo_horiz-white.png",
       "PackagePath": "staticwebassets/Images/bethanys-pie-shop-logo_horiz-white.png"
     },

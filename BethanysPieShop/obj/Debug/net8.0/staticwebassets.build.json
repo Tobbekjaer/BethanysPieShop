@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PIze/4to203xC9TMJcg0zWZktQjvmxEbmmEYFRZtuIA=",
+  "Hash": "bmIwrDlpeDaEmVKhEHO9t9wdVtoqVwoGNxn+8g7Qu8E=",
   "Source": "BethanysPieShop",
   "BasePath": "_content/BethanysPieShop",
   "Mode": "Default",
@@ -16,6 +16,44 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/scopedcss/bundle/BethanysPieShop.styles.css",
+      "SourceId": "BethanysPieShop",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/BethanysPieShop",
+      "RelativePath": "BethanysPieShop.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/scopedcss/bundle/BethanysPieShop.styles.css"
+    },
+    {
+      "Identity": "/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/scopedcss/projectbundle/BethanysPieShop.bundle.scp.css",
+      "SourceId": "BethanysPieShop",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/BethanysPieShop",
+      "RelativePath": "BethanysPieShop.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/obj/Debug/net8.0/scopedcss/projectbundle/BethanysPieShop.bundle.scp.css"
+    },
     {
       "Identity": "/Users/tobiaskjaer/Repoes/BethanysPieShop/BethanysPieShop/wwwroot/css/site.css",
       "SourceId": "BethanysPieShop",
