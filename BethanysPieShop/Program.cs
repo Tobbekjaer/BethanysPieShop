@@ -50,6 +50,7 @@ app.UseStaticFiles();
 app.UseSession();
 
 app.UseAuthentication();
+app.UseAuthorization();
 
 // Adding routing
 app.MapControllerRoute(
