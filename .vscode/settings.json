@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/74513a6b-a8f7-4138-b919-9f54af6dacac/resourceGroups/BethanysPieShop/providers/Microsoft.Web/sites/BethanysPieShopApp",
+    "appService.deploySubpath": "."
+}
