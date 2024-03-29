@@ -43,6 +43,8 @@ app.UseStaticFiles();
 
 app.UseSession();
 
+app.UseAuthentication();
+
 // Adding routing
 app.MapControllerRoute(
     name: "default",
